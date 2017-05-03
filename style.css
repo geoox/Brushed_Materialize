@@ -40,7 +40,7 @@ li.indicator-item{
 }
 #source1 img, #source2 img{
 	height: 100% !important;
-	filter:invert(100%);
+	
 }
 
 .btn:hover{
